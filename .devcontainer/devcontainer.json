@@ -11,7 +11,12 @@
       }
     },
       "extensions": [
-        "ms-python.python"
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.pylint",
+        "samuelcolvin.jinjahtml",
+        "wholroyd.jinja"
       ]
     }
   },
