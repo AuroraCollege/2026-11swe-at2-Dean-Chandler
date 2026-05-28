@@ -3,6 +3,13 @@
   "image": "python:3.11-alpine",
   "customizations": {
     "vscode": {
+    "settings": {
+      "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false
+      }
+    }
       "extensions": [
         "ms-python.python"
       ]
